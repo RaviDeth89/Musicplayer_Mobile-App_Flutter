@@ -1,5 +1,11 @@
 # musicplayer
 
+
+•	Flutter: -   "Unite Music”: -Music Player Mobile-Application
+o	Flutter Dart, Firebase, Google cloud console, Fire storage, Google OAuth
+o	Facilities: - User Login Google API, Song uploading on google cloud storage, play song through firebase data, delete song from database, Android APK
+
+
 A new Flutter project.
 
 ## Getting Started
